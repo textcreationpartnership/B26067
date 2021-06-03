@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of the rebells, that were executed at Lyme, Bridport, Weymouth, Melcombe Regis, Sherbourn, Pool, Wareham, Exeter, Taunton, and several other places: Together with the names of those which were respited till further orders. Gathered out of several papers formerly printed.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26067</idno><idno type="EEBO-CITATION">99886025_189610</idno>
+  <idno type="VID">189610</idno>
+  <idno type="EEBO-PROQUEST">2248539054</idno>
+  
+            <idno type="STC">Wing L2476</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.3[17]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[115]</idno>
+            <idno type="STC">ESTC R225300</idno>
+            <idno type="PROQUEST">ocm99886025</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886025e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189610)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:3[17]; C17:1[116])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of the rebells, that were executed at Lyme, Bridport, Weymouth, Melcombe Regis, Sherbourn, Pool, Wareham, Exeter, Taunton, and several other places: Together with the names of those which were respited till further orders. Gathered out of several papers formerly printed.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E[lizabeth]. Mallet, next door to Mr. Shiptons coffee-house near Fleet-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: This may be printed, R.P. April, the 1st. 1686.</note>
+                  <note>A list of those to be executed.</note>
+                  <note>Imperfect: copy at reel C11:3[17] torn at imprint, affecting place of publication.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Monmouth's Rebellion, 1685 --  Early works to 1800.</term>
+               <term type="topical_term">Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb facs="tcp:189610:1"/>
+            <head>A LIST Of the Names of the REBELLS, That were Executed at <hi>Lyme, Bridport, Weymouth, Melcombe-Regis, Sherbourn, Pool, Wareham, Exeter, Taunton,</hi> and several other Places: Together with the names of those which were Respited till further Orders. Gathered out of several Pa<g ref="char:EOLhyphen"/>pers formerly Printed.</head>
+            <list>
+               <head>ORder'd to be Executed at <hi>Lyme 12. viz.</hi>
+               </head>
+               <item>Abraham Holms,</item>
+               <item>Josia Askew,</item>
+               <item>William Hewling,</item>
+               <item>John Hays,</item>
+               <item>John Kidd,</item>
+               <item>John Marders,</item>
+               <item>Sampson Lark,</item>
+               <item>Christo. Battiscomb</item>
+               <item>Leonard Jackson,</item>
+               <item>Henry Wats,</item>
+               <item>Benjamin Temple,</item>
+               <item>Robert Matchet,</item>
+            </list>
+            <list>
+               <head>Order'd to be Exe<g ref="char:EOLhyphen"/>cuted at <hi>Bridport 13. viz.</hi>
+               </head>
+               <item>Robert Bull,</item>
+               <item>John Bull,</item>
+               <item>Benjamin Sanford,</item>
+               <item>John Lee,</item>
+               <item>William Quintin,</item>
+               <item>Thomas Clap,</item>
+               <item>Thomas Cook,</item>
+               <item>George Collier,</item>
+               <item>Robert Fawn,</item>
+               <item>John Beamont, <hi>Sen.</hi>
+               </item>
+               <item>John Sprake,</item>
+               <item>Azarias Pinney,</item>
+               <item>Malachie Malake, <hi>Reprieved.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Order'd to be Exe<g ref="char:EOLhyphen"/>cuted at <hi>Weymouth</hi> and <hi>Melcomb-Regis 12. viz.</hi>
+               </head>
+               <item>Thomas Forte,</item>
+               <item>John Bevis,</item>
+               <item>Tristram Elliot,</item>
+               <item>Robert Slade,</item>
+               <item>William Lancaster,</item>
+               <item>John Burridge,</item>
+               <item>John Hartley,</item>
+               <item>George Smith,</item>
+               <item>George Wilmot,</item>
+               <item>John Robbins,</item>
+               <item>Edward Leggit,</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oger Satchel,</item>
+            </list>
+            <list>
+               <head>Order'd to be Exe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uted at <hi>Sherborn, 2. viz.</hi>
+               </head>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>l Glisson,</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am Hart,</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n Leggit,</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ncis Skinner,</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lliam Alstone,</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>orge Puckeridge,</item>
+               <item>Henry Rowe,</item>
+               <item>John Lawrence,</item>
+               <item>Michael Abbot,</item>
+               <item>Richard Hall,</item>
+               <item>John Savage,</item>
+               <item>Robert Whorwood,</item>
+            </list>
+            <list>
+               <head>Order'd to be Exe<g ref="char:EOLhyphen"/>cuted at <hi>Pool 12 viz.</hi>
+               </head>
+               <item>William Dilling,</item>
+               <item>Andrew Tozier,</item>
+               <item>William Hardiman,</item>
+               <item>Thomas Jenkins,</item>
+               <item>Robert Salter,</item>
+               <item>Thomas Waldron,</item>
+               <item>John Pulling,</item>
+               <item>Andrew Ellis, <hi>alias</hi>
+               </item>
+               <item>Cozens,</item>
+               <item>Josias Restrick,</item>
+               <item>Phillip Cox,</item>
+               <item>William Martin,</item>
+               <item>Nicholas Hoar,</item>
+            </list>
+            <list>
+               <head>Order'd to be Exe<g ref="char:EOLhyphen"/>cuted at <hi>Wareham, 6. viz.</hi>
+               </head>
+               <item>Samuel Robins,</item>
+               <item>William Cock <hi>Sen.</hi>
+               </item>
+               <item>John Holloway,</item>
+               <item>Adam Hawley,</item>
+               <item>Thomas Tyler <hi>Repriev'd</hi>
+               </item>
+               <item>
+                  <hi>and</hi> Tho. Lawrence <hi>Repriev'd</hi>
+               </item>
+               <item>John Foweracres,</item>
+            </list>
+            <list>
+               <head>Order'd to be Exe<g ref="char:EOLhyphen"/>cuted at <hi>Exeter.</hi>
+               </head>
+               <item>Thomas Hobbs,</item>
+            </list>
+            <list>
+               <head>Order'd to be Exe<g ref="char:EOLhyphen"/>cuted at <hi>Crediton,</hi>
+               </head>
+               <item>William Parsons,</item>
+               <item>Thomas Quintin,</item>
+            </list>
+            <list>
+               <head>Order'd to be Exe<g ref="char:EOLhyphen"/>cuted at <hi>Ottery</hi> St. <hi>Mary.</hi>
+               </head>
+               <item>John Sprake,</item>
+               <item>William Clegg,
+<list>
+                     <item>
+                        <hi>at</hi> Collyton.</item>
+                  </list>
+               </item>
+               <item>John Oliver,</item>
+               <item>Henry Knight,</item>
+               <item>Samuel Pots,</item>
+               <item>John Knowles,
+<list>
+                     <item>
+                        <hi>at</hi> Honyton.</item>
+                  </list>
+               </item>
+               <item>Thomas Broughton</item>
+               <item>John Gosling,</item>
+               <item>Timothy Dunkin,</item>
+               <item>John Ross,
+<list>
+                     <item>
+                        <hi>at Axminster.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Order'd to be Exe<g ref="char:EOLhyphen"/>cuted at <hi>Taunton 14. viz.</hi>
+               </head>
+               <item>Abraham Ainsly,</item>
+               <item>Arthur Mathews,</item>
+               <item>William Jenkins,</item>
+               <item>Benjamin Hewling,</item>
+               <item>John Dryer,</item>
+               <item>John Hucker,</item>
+               <item>Jonathan England,</item>
+               <item>John Sharp,</item>
+               <item>Percy Morrin,</item>
+               <item>John Savage,</item>
+               <item>John Fricker,</item>
+               <item>John Williams,</item>
+               <item>John Petram,</item>
+               <item>James Whettam.</item>
+               <item>John Trickey,</item>
+               <item>VVilliam Satchel,</item>
+               <item>VVilliam Davison,</item>
+               <item>Henry Lisle,</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>.</item>
+            </list>
+            <list>
+               <head>The Persons that received their Sen<g ref="char:EOLhyphen"/>tence with the for<g ref="char:EOLhyphen"/>mer, and no Place nor Time then Or<g ref="char:EOLhyphen"/>der'd for their Exe<g ref="char:EOLhyphen"/>cution, were Respi<g ref="char:EOLhyphen"/>ted, and are as follow<g ref="char:EOLhyphen"/>eth, <hi>viz.</hi>
+               </head>
+               <item>Abraham Hunt,</item>
+               <item>Christo. Cooper,</item>
+               <item>Edmond Bovet,</item>
+               <item>VVilliam Siller, <hi>Ju.</hi>
+               </item>
+               <item>John Follet,</item>
+               <item>Elias Holman,</item>
+               <item>Peter Bird,</item>
+               <item>John Kemplin,</item>
+               <item>VValter Teape,</item>
+               <item>James Cox,</item>
+               <item>Thomas Connet,</item>
+               <item>Robert Dro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</item>
+               <item>John Smith,</item>
+               <item>Edward Lewther,</item>
+               <item>John Downs,</item>
+               <item>John Edwards,</item>
+               <item>Nathaniel Swapper,</item>
+               <item>John Winniby,</item>
+               <item>Benjamin Bryan,</item>
+               <item>Henry Plotworthy,</item>
+               <item>John Loe,</item>
+               <item>William Pippin,</item>
+               <item>John White,</item>
+               <item>James Pomray,</item>
+               <item>Robert Shaw,</item>
+               <item>Tho. Gammidge,</item>
+               <item>Stephe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cook,</item>
+               <item>Thomas Bennet,</item>
+               <item>John Manning,</item>
+               <item>John F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sher,</item>
+               <item>Ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Lumber,</item>
+               <item>Wi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>am Watfield,</item>
+               <item>George Plumley,</item>
+               <item>Richard Keach,</item>
+               <item>Thomas Allen,</item>
+               <item>John Reason,</item>
+               <item>George Speering,</item>
+               <item>Matthew Porter,</item>
+               <item>Robert Spurway,</item>
+               <item>Peter Row,</item>
+               <item>John Lovering,</item>
+               <item>Robert Foard,</item>
+               <item>John Beamont <hi>Ju.</hi>
+               </item>
+               <item>Elias Stephens,</item>
+               <item>Daniel Parker,</item>
+               <item>John Bridle,</item>
+               <item>Thomas Parsons,</item>
+               <item>Nicholas Palmer,</item>
+               <item>John Davis,</item>
+               <item>Thomas Williams,</item>
+               <item>Matthew Hutchins,</item>
+               <item>Nicholas Smith,</item>
+               <item>—Mallet,</item>
+               <item>John King,</item>
+               <item>Edward Towel,</item>
+               <item>Edward Lane,</item>
+               <item>John Vincent,</item>
+               <item>John Pits,</item>
+               <item>Evan Gammidge,</item>
+               <item>Andrew Robson,</item>
+               <item>William Cozens,</item>
+               <item>Thomas Townsend,</item>
+               <item>Jasper Diamond,</item>
+               <item>Thomas Gregory,</item>
+               <item>John Allen,</item>
+               <item>Robert Hellier,</item>
+               <item>Thomas Allen,</item>
+               <item>Thomas Hellier,</item>
+               <item>Thomas Best,</item>
+               <item>John Marke,</item>
+               <item>John Mitchel</item>
+               <item>John Madders,</item>
+               <item>Thomas Hallet,</item>
+               <item>John Alsop,</item>
+               <item>George Massey,</item>
+               <item>John Pinney,</item>
+               <item>Charles Strong,</item>
+               <item>William Pead,</item>
+               <item>William Saunders,</item>
+               <item>James, Spence,</item>
+               <item>John Wilson,</item>
+               <item>Edward Adams,</item>
+               <item>John Adams,</item>
+               <item>Anthony Billing,</item>
+               <item>Arthur Lusher,</item>
+               <item>John Hutchins,</item>
+               <item>John Lawrence,</item>
+               <item>Thomas Bov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</item>
+               <item>Henry Bees<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</item>
+               <item>Robert Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</item>
+               <item>John Dur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</item>
+               <item>James Fowler,</item>
+               <item>John W<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e</item>
+               <item>Francis L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngley,</item>
+               <item>Thomas Moo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>John Moggr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dge,</item>
+               <item>Thomas Q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ck,</item>
+               <item>Nicholas Salter,</item>
+               <item>Francis Smith,</item>
+               <item>Richard Green,</item>
+               <item>William Marters,</item>
+               <item>John Pacy,</item>
+               <item>Thomas Gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enway,</item>
+               <item>John Prew,</item>
+               <item>R<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hard Daniel,</item>
+               <item>Peter Kent,</item>
+               <item>John Skinner,</item>
+               <item>Adam Clark,</item>
+               <item>Christop<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewel,</item>
+               <item>Abraham Thomas,</item>
+               <item>John Baker,</item>
+               <item>Daniel Pitson,</item>
+               <item>Robert Gough,</item>
+               <item>George Hempton,</item>
+               <item>Andrew <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>osier,</item>
+               <item>Samuel Dollier,</item>
+               <item>Peter Bagwell,</item>
+               <item>Benjamin Whicker,</item>
+               <item>John W<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cker,</item>
+               <item>John Bagwell,</item>
+               <item>Olive<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>b,</item>
+               <item>John Ipsley,</item>
+               <item>John Itc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cock,</item>
+               <item>Nichola<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tts,</item>
+               <item>Thoma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sset,</item>
+               <item>Willia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yles,</item>
+               <item>Joseph <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y,</item>
+               <item>Thomas Perry,</item>
+               <item>John Winnely,</item>
+               <item>William Grove,</item>
+               <item>Samuel Walden,</item>
+               <item>John Bulling,</item>
+               <item>Robert Mulling,</item>
+               <item>Roger Bryan,</item>
+               <item>Charles Broughton,</item>
+               <item>Richard Parker,</item>
+               <item>John Hayn,</item>
+               <item>Joseph Downing,</item>
+               <item>John Cornet,</item>
+               <item>Matthew—</item>
+               <item>John Glover,</item>
+               <item>Emanuel Collins,</item>
+               <item>Roger Hobbs,</item>
+               <item>John Gay,</item>
+               <item>John Trottle,</item>
+               <item>Christo. Marriot,</item>
+               <item>Joseph Hallet,</item>
+               <item>Nath. Webber,</item>
+               <item>Edward Morton,</item>
+               <item>James Salter,</item>
+               <item>William Lowrey,</item>
+               <item>Ambrose Ashbourn,</item>
+               <item>Roger Prince,</item>
+               <item>Joseph Belts,</item>
+               <item>Nicholas Warren,</item>
+               <item>Robert Sandey,</item>
+               <item>William Wills,</item>
+               <item>John Pryer,</item>
+               <item>William Tucker,</item>
+               <item>William Brown,</item>
+               <item>Samuel Lawrence,</item>
+               <item>Zachariah Brown,</item>
+               <item>William Clark,</item>
+               <item>John Brown,</item>
+               <item>Thomas Dolling,</item>
+               <item>Edward Mash,</item>
+               <item>George Tu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </item>
+               <item>John East<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Robert B<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </item>
+               <item>John Allenbr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Henry Tuck<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</item>
+               <item>Thomas Burridge,</item>
+               <item>Thomas Cornelius,</item>
+               <item>William Burridge,</item>
+               <item>Humph. Moulton,</item>
+               <item>A— Lacy,</item>
+               <item>Robert Dale,</item>
+               <item>Edward Willmot,</item>
+               <item>William Williams,</item>
+               <item>Thomas Marshal,</item>
+               <item>Richard Paul,</item>
+               <item>Hugh Willmot,</item>
+               <item>John Johnson,</item>
+               <item>Joseph Paul,</item>
+               <item>Richard Allen,</item>
+               <item>James Hock,</item>
+               <item>John Gadbey,</item>
+               <item>Edward Ben,</item>
+               <item>Richard Pine,</item>
+               <item>Thomas Pester,</item>
+               <item>William Cox, <hi>Jun.</hi>
+               </item>
+               <item>Richard Cox,</item>
+               <item>Peter Trocket,</item>
+               <item>John Wellman,</item>
+               <item>John Samm,</item>
+               <item>Henry Sing,</item>
+               <item>William Deale,</item>
+               <item>William Clark,</item>
+               <item>Walter Osborne,</item>
+               <item>Richard Hore,</item>
+               <item>William Hayns,</item>
+               <item>Tho. Franckling.</item>
+               <item>John Jones,</item>
+               <item>Joseph Strong,</item>
+            </list>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>This may be Printed,</hi> R. P. April, <hi>the</hi> 1st. 1686.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>E. Mallet,</hi> next Door to Mr. <hi>Shiptons</hi> Coffee-House near <hi>Fleet-Bridge,</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
